@@ -28,7 +28,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
    <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCss" alt="TailwindCss" width="40" height="40"/>&nbsp;
