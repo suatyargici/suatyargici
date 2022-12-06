@@ -27,14 +27,15 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### 🛠️ Languages and Tools :
 <div>
-  <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCss" alt="TailwindCss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Css3" alt="Css3" width="40" height="40"/>
-  <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>
+  <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50"/>&nbsp;
+   <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCss" alt="TailwindCss" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+  <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Css3" alt="Css3" width="50" height="50"/>
+  <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="50" height="50"/>
+  <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="50" height="50"/>
   
 </div>
 
