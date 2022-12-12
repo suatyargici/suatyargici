@@ -35,6 +35,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
    <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCss" alt="TailwindCss" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+  <img src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/vscode.png" title="VsCode"  alt="Vscode" width="50" height="50" />
+  <img src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/git-original.svg title="Git"  alt="Git" width="50" height="50"/>
   <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Css3" alt="Css3" width="50" height="50"/>
   <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="50" height="50"/>
   <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="50" height="50"/>
