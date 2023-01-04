@@ -28,19 +28,17 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### 🛠️ Languages and Tools :
-<div>
-  <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCss" alt="TailwindCss" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
-  <img src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/vscode.png" title="VsCode"  alt="Vscode" width="50" height="50" />
-  <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Css3" alt="Css3" width="50" height="50"/>
-  <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="50" height="50"/>
-  <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="50" height="50"/>
-  
-</div>
+<p align="center">
+  <code><img title="JavaScript" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/javascript.svg"></code>
+  <code><img title="TypeScript" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/typescript.svg"></code>
+  <code><img title="HTML5" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/html5.svg"></code>
+  <code><img title="CSS" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/css.svg"></code>
+  <code><img title="SASS" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/sass.svg"></code>
+  <code><img title="React" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/react-original.svg"></code>    
+  <code><img title="Redux" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/redux.svg"></code>
+  <code><img title="NextJS" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/next-js.svg"></code>
+  <code><img title="MongoDb" height="50" src="https://github.com/Thomas-Boi/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
+</p>
 
 ---
 
