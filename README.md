@@ -38,6 +38,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <code><img title="Redux" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/redux.svg"></code>
   <code><img title="NextJS" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/next-js.svg"></code>
   <code><img title="MongoDb" height="50" src="https://github.com/Thomas-Boi/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
+    <code><img title="MongoDb" height="50"  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg></code>
+
+   
 </p>
 
 ---
