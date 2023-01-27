@@ -44,6 +44,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 </p>
+<p align="center">
+<code> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" /></code>
 
+</p>
 ---
 
