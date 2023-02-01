@@ -47,6 +47,11 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <p align="center">
 <code> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" /></code>
 <code> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" /></code>
+  <code><img title="Git" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/git-original.svg"></code>
+<code><img title="Visual Studio Code" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/vscode.png"></code>
+<code><img title="Microsoft Visual Studio" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/visualstudio.png"></code>  
+<code><img title="JSON" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/json.svg"></code>
+<code><img title="GitHub" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/github.svg"></code>
   
   
 
